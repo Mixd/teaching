@@ -1,0 +1,92 @@
+$color-link: #174896;
+$color-brand: #ff1b1c;
+$color-text: #444;
+$color-background: #fff;
+
+$max-width: 1400px;
+$container: 960px;
+$baseline: 1.5em;
+
+$font-sans:  Arial, Helvetica, sans-serif;
+$font-serif: "Times New Roman", Times, serif;
+
+@mixin px-to-percent($width, $container){
+	width: ($width / $container) * 100%;
+}
+
+html {
+	font-family: $font-sans;
+	color: $color-text;
+	background-color: $color-background;
+	line-height: 1.5;
+}
+
+body {
+	margin: 0 auto;
+	width: 90%;
+	max-width: $max-width;
+}
+
+h1 {
+	font-size: 36px;
+	font-family: $font-serif;
+	color: $color-brand;
+	margin-bottom: $baseline / 2;
+}
+
+p {
+	font-size: 18px;
+	margin-bottom: $baseline;
+}
+
+a {
+	color: $color-link;
+	text-decoration: underline;
+}
+
+.btn {
+	padding: .3em .6em;
+	font-size: 24px;
+	background-color: $color-brand;
+	color: $color-background;
+	text-decoration: none;
+
+	&:hover {
+		background-color: darken($color-brand, 10%);
+	}
+}
+
+.grid {
+	margin: 1em 0;
+}
+
+.unit {
+	height: 50px;
+	float: left;
+}
+
+.unit-1-2 {
+	@include px-to-percent(480px, $container);
+}
+
+.unit-1-4 {
+	@include px-to-percent(240px, $container);
+}
+
+.unit-1-8 {
+	@include px-to-percent(120px, $container);
+}
+
+.unit-one {
+	background-color: red;
+}
+
+.unit-two {
+	background-color: blue;
+}
+.unit-three {
+	background-color: green;
+}
+
+
+

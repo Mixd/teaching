@@ -1,0 +1,5 @@
+@mixin font-size ($size: 16) {
+	$rem: ($size / 16);
+	font-size: ($size * 1px);
+	font-size: ($rem * 1rem); 
+}

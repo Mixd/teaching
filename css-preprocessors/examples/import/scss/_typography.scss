@@ -1,0 +1,16 @@
+h1 {
+	font-size: 36px;
+	font-family: $font-serif;
+	color: $color-brand;
+	margin-bottom: $baseline / 2;
+}
+
+p {
+	font-size: 18px;
+	margin-bottom: $baseline;
+}
+
+a {
+	color: $color-link;
+	text-decoration: underline;
+}

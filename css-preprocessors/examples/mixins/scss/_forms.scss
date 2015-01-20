@@ -1,0 +1,8 @@
+.btn {
+	padding: .3em .6em;
+	text-decoration: none;
+	background-color: $color-brand;
+  	color: $color-background;
+	
+	@include border-radius(8px);
+}

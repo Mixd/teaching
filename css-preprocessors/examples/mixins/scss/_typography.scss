@@ -1,0 +1,35 @@
+h1 {
+	font-family: $font-serif;
+	color: $color-brand;
+	margin-bottom: $baseline / 2;
+
+	@include font-size(24);
+
+	@include respond-min($bp1){
+		@include font-size(28);
+	}
+	@include respond-min($bp2){
+		@include font-size(32);
+	}
+	@include respond-min($bp3){
+		@include font-size(36);
+	}
+	@include respond-min($bp4){
+		@include font-size(40);
+	}
+}
+
+p {
+	margin-bottom: $baseline;
+
+	@include font-size(16);
+
+	@include respond-min($bp3){
+		@include font-size(18);
+	}
+}
+
+a {
+	color: $color-link;
+	text-decoration: underline;
+}
