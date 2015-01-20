@@ -1,0 +1,47 @@
+/**
+ * Media Query Examples:
+ *
+ * Below are some examples of the Media Queries you may use in your projects
+ */
+
+/* 1. If the viewport width is at least 800px */
+@media (min-width: 800px) { }
+
+/* 2. If the viewport width is less than or equal to 800px */
+@media (max-width: 800px) { }
+
+/* 3. Print only */
+@media print { }
+
+/* 4. Screen only (very generic) and viewport width is at least 450px */
+@media screen and (min-width: 450px) { }
+
+/* 5. Screen only (very generic) and viewport width is at least 450px. Working with multiple selectors  */
+@media screen and (min-width: 450px) {
+    .selector1 {
+
+    }
+
+    .selector2 {
+
+    }
+}
+
+/* 6. Screen only (very generic) and viewport width is less than or equal to 450px */
+@media screen and (max-width: 450px) { }
+
+/* 7. Screen only (anything with a screen i.e. Nexus 9, iPod, Galaxy S4, desktop) and viewport height is at least 450px */
+@media screen and (min-height: 450px) { }
+
+/* 8. Screen only (anything with a screen i.e. Nexus 9, iPod, Galaxy S4, desktop) and viewport height less than or equal to 450px */
+@media screen and (max-height: 450px) { }
+
+/* 9. All media types and screen orientation is portrait */
+@media all and (orientation: portrait) { }
+
+
+/**
+ * These are only a select few of the different media queries you could use.
+ * Generally speaking, you'll mainly use is (4.) & (5.) & (6.)
+ * You can read up on this more at: https://developer.mozilla.org/en-US/docs/Web/Guide/CSS/Media_queries
+ */

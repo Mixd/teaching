@@ -1,0 +1,130 @@
+/* Base styles */
+
+*, *:before, *:after {
+    margin: 0;
+    padding: 0;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+html {
+    font-family: sans-serif;
+}
+
+.container {
+    margin: 0 auto;
+    width: 85%;
+    max-width: 1300px;
+}
+
+.clearfix:after {
+    content: "";
+    clear: both;
+    display: table;
+}
+
+
+
+/* Navigation */
+
+.nav {
+    list-style: none;
+}
+
+.nav li {
+    display: block;
+}
+
+.nav a {
+    display: block;
+    padding: .5em;
+    text-align: center;
+    text-decoration: none;
+    color: #fff;
+    background: #ccc;
+    border-top: 1px solid #c5c5c5;
+    border-left: 1px solid #c5c5c5;
+    border-right: 1px solid #c5c5c5;
+    transition: background .3s ease-out;
+}
+
+.nav a:hover {
+    background: #e74c3c;
+}
+
+
+
+/* Logo */
+
+.logo {
+    display: block;
+    padding: 1em 0;
+    font-size: 2em;
+    font-weight: 600;
+    text-align: center;
+    text-decoration: none;
+    color: #e74c3c;
+}
+
+
+
+/* base form styling */
+
+input, button {
+    padding: .5em;
+    border-radius: 0;
+    border: 1px solid #ccc;
+}
+
+input:focus {
+    outline: 0;
+    box-shadow: 0 0 1px #e74c3c; 
+}
+
+button {
+    cursor: pointer;
+    color: #fff;
+    background: #e74c3c;
+}
+
+
+
+/* Search form */
+
+.search {
+    width: 100%;
+    margin-bottom: 1em;
+}
+
+.search input,
+.search button {
+    display: inline-block;
+    margin: 0 -2px;
+}
+
+.search input {
+    width: 75%;
+}
+
+.search button {
+    width: 25%;
+}
+
+
+
+/* Media Queries */
+
+@media screen and (min-width: 600px) {
+    .unit {
+        float: left;
+    }
+
+    .unit-50 {
+        width: 50%;
+    }
+
+    .unit-25 {
+        width: 25%;
+    }
+}

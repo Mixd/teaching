@@ -1,0 +1,20 @@
+.box {
+    width: 5em;
+    padding: 2.5em;
+    margin-bottom: 1em;
+    font-size: 1.6em;
+    text-align: center;
+    color: #fff;
+}
+
+.box-1 {
+    background: #2ecc71;
+}
+
+.box-2 {
+    background: #3498db;
+}
+
+
+/* Your styles go here */
+

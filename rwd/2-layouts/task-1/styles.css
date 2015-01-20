@@ -1,0 +1,17 @@
+.container {
+    margin: 0 auto;
+    width: 85%;
+    max-width: 1300px;
+}
+
+.clearfix:after {
+    content: "";
+    clear: both;
+    display: table;
+}
+
+
+/* Default styles */
+
+
+/* Media Queries here */
