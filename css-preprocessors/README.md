@@ -38,7 +38,7 @@ Find one of your pre-existing HTML/CSS projects, and see how you can apply Sass 
 
 ## Feeling Adventurous?: Look at the Mixd Front-end Framework!
 
-Take a look at the [Mixd Front-end Framework](https://github.com/Mixd/Mixd-CSS-Framework). Get it set up locally and have a look at how we use Sass. Start building something (perhaps your portfolio?) using our framework and see how you get on.
+Take a look at the [Mixd Front-end Framework](https://github.com/Mixd/frontend-framework). Get it set up locally but looking at the `readme.md` and have a look at how we use Sass with Grunt. Start building something (perhaps your portfolio?) using our framework and see how you get on.
 
 # Tutorials
 
