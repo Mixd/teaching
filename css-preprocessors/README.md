@@ -47,6 +47,11 @@ Take a look at the [Mixd Front-end Framework](https://github.com/Mixd/frontend-f
 
 # Further Reading
 
+## Guidelines
+These are opinionated guidelines on how to write your Sass/CSS. They're not a requirement, but they're really good!
+* [Sass Guidelines](http://sass-guidelin.es/) by Hugo Giraudel - its a fork of the Harry's below, built for Sass.
+* [CSS Guidelines](http://cssguidelin.es/) by Harry Roberts - Not actually Sass, but its still awesome so you should give it a read
+
 ## Books
 
 * _[A Book Apart: Sass for Web Designers](http://www.abookapart.com/products/sass-for-web-designers)_
