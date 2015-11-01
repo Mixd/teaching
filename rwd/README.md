@@ -5,6 +5,7 @@ This is the repository used for the Responsive Web Design workshop curated and r
 If you're planning on working through the various tasks then you'll want the entire repository locally on your system.
 
 ### [**Download ZIP**](https://github.com/Mixd/teaching/archive/master.zip)
+Once downloaded, everything you need will be within the `rwd` folder. The instructions for each of the sections (shown below) are within `.md` files (short for [Markdown](https://daringfireball.net/projects/markdown/), I'd recommend viewing these files in Github.
 
 ## Structure
 The workshop is split into 4 different sections:
