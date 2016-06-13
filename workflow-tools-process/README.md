@@ -10,9 +10,13 @@ Anything in __bold__ is the product that _Mixd_ use.
 
 ## Project Tracking & Billing
 * [__FreeAgent__](http://www.freeagent.com/)
-* [Harvest](http://www.getharvest.com/)
 * [__Toggl__](https://toggl.com/)
 * [__Gecko Board__](https://www.geckoboard.com/)
+* [Harvest](http://www.getharvest.com/)
+
+## Data / Monitoring
+* [__Google Analytics__](https://analytics.google.com)
+* [__CrazyEgg__](https://www.crazyegg.com/)
 
 ## Support
 * [__Front__](https://frontapp.com/)
@@ -22,16 +26,17 @@ Anything in __bold__ is the product that _Mixd_ use.
 ## Design
 * Photoshop
 * __Fireworks__
-* __Illustrator__
 * __Sketch__
+* Illustrator
 
 ## Development
 
 ### Code IDEs
 * [__Sublime Text__](http://www.sublimetext.com/)
-* [__Coda__](http://panic.com/coda/)
+* [Coda](http://panic.com/coda/)
 * [Notepad++](http://notepad-plus-plus.org/)
 * [Brackets](http://brackets.io/)
+* [PHP Storm](https://www.jetbrains.com/phpstorm/)
 * [Vim](http://www.vim.org/)
 
 ### Pre-processors
@@ -39,8 +44,8 @@ Anything in __bold__ is the product that _Mixd_ use.
 * [LESS](http://www.lesscss.org/)
 
 ### Compilers
-* [Codekit](http://incident57.com/codekit/)
 * [__Grunt__](http://gruntjs.com/)
+* [Codekit](http://incident57.com/codekit/)
 
 ### Version Control
 * [__Git__](http://git-scm.com/) / [__GitHub__](https://github.com/)
