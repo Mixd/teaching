@@ -1,0 +1,57 @@
+/*
+$bp1: 30em;
+$bp2: 48em;
+$bp3: 62em;
+$bp4: 78em;
+$bp5: 87em;
+ */
+
+body.debug:before {
+    position: fixed;
+    z-index: 50;
+    right: 1em;
+    bottom: 1em;
+    display: inline-block;
+    padding: .35em;
+    font-size: .8em;
+    text-transform: uppercase;
+    color: #FFF;
+    background-color: #222222;
+
+    content: "Breakpoint 0";
+}
+
+@media screen and (min-width: 30em) {
+    /* BP1 */
+    body.debug:before {
+        content: "Breakpoint 1";
+    }
+}
+
+@media screen and (min-width: 48em) {
+    /* BP2 */
+    body.debug:before {
+        content: "Breakpoint 2";
+    }
+}
+
+@media screen and (min-width: 62em) {
+    /* BP3 */
+    body.debug:before {
+        content: "Breakpoint 3";
+    }
+}
+
+@media screen and (min-width: 78em) {
+    /* BP4 */
+    body.debug:before {
+        content: "Breakpoint 4";
+    }
+}
+
+@media screen and (min-width: 87em) {
+    /* BP5 */
+    body.debug:before {
+        content: "Breakpoint 5";
+    }
+}

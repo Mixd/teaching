@@ -1,0 +1,34 @@
+/* Base styles */
+
+*, *:before, *:after {
+    margin: 0;
+    padding: 0;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+html {
+    font-family: sans-serif;
+}
+
+img {
+    display: inline-block;
+    margin: 0 auto;
+    font-style: italic;
+    color: #666;
+    vertical-align: middle;
+    max-width: 100%;
+}
+
+.container {
+    margin: 0 auto;
+    width: 85%;
+    max-width: 1300px;
+}
+
+.clearfix:after {
+    content: "";
+    clear: both;
+    display: table;
+}
