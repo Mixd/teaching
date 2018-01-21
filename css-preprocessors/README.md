@@ -7,12 +7,8 @@ Our goal is to get you up and running with Sass, and using it comfortably.
 
 ## Task 1: Download a compiler
 
-* __[CodeKit](https://incident57.com/codekit/)__ (Mac) ($)
-* [Hammer for Mac](http://hammerformac.com/) (Mac) ($)
-* [Mixture](http://mixture.io/) (Windows + Mac) ($)
-* [Scout](http://mhs.github.io/scout-app/) (Windows + Mac) (FREE)
-
-$ - Paid software (although they all have free trials)
+* __[CodeKit](https://codekitapp.com/)__ (Windows + Mac) ($34)
+* [Scout](http://scout-app.io/) (Windows + Mac) (FREE)
 
 ## Task 2: Look through and play with the examples
 
