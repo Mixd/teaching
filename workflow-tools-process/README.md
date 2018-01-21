@@ -69,10 +69,9 @@ Anything in __bold__ is the product that _Mixd_ use.
 
 #### Committing
 * __Command Line__ (via. [iTerm 2](https://www.iterm2.com/))
-* GitHub – [Windows](http://windows.github.com/) / [Mac](http://mac.github.com/)
-* [GitBox](http://gitboxapp.com/)
+* [GitHub Desktop](https://desktop.github.com/) (Windows + Mac)
 * [Tower](http://www.git-tower.com/)
-* [Cornerstone](http://www.zennaware.com/cornerstone/index.php)
+* [Cornerstone](https://cornerstone.assembla.com/) (Mac)
 
 ### Deployment
 * [__Capistrano__](http://capistranorb.com/)
