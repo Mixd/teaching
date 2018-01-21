@@ -31,7 +31,7 @@ Anything in __bold__ is the product that _Mixd_ use.
 ## Design
 * Photoshop
 * __Fireworks__
-* __Sketch__
+* [__Sketch__](https://www.sketchapp.com/)
 * Illustrator
 * [__Skitch__](https://evernote.com/products/skitch)
 
