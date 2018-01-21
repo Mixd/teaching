@@ -17,7 +17,7 @@ Anything in __bold__ is the product that _Mixd_ use.
 
 ## Storage
 * [Dropbox](https://www.dropbox.com/)
-* [Google Drive](https://www.google.com/drive/)
+* [__Google Drive__](https://www.google.com/drive/)
 
 ## Data / Monitoring
 * [__Google Analytics__](https://analytics.google.com)
@@ -36,9 +36,9 @@ Anything in __bold__ is the product that _Mixd_ use.
 * [__Skitch__](https://evernote.com/products/skitch)
 
 ### Fonts
-* [Typekit](https://typekit.com/)
-* [Fonts.com](https://www.fonts.com/)
-* [Google Fonts](https://fonts.google.com/)
+* [__Typekit__](https://typekit.com/)
+* [__Fonts.com__](https://www.fonts.com/)
+* [__Google Fonts__](https://fonts.google.com/)
 
 ## Development
 
