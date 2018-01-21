@@ -1,4 +1,4 @@
-#Typography on the web
+# Typography on the web
 
 [Practical Typography](http://practicaltypography.com/) is a great run-down of everything to do with typography on the web.
 I also wrote an article that covers the topics of this session – [Web Font Basics](http://thecodezombie.co.uk/blog/web-font-basics/).
