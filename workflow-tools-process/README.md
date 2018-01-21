@@ -3,8 +3,9 @@
 Anything in __bold__ is the product that _Mixd_ use.
 
 ## Project Management
-* [__Trello__](https://trello.com/)
+* [__Asana__](https://asana.com/)
 * [__Float__](http://float.com/)
+* [Trello](https://trello.com/)
 * [Evernote](https://evernote.com/)
 * [BaseCamp](https://basecamp.com/)
 
@@ -13,6 +14,10 @@ Anything in __bold__ is the product that _Mixd_ use.
 * [__Toggl__](https://toggl.com/)
 * [__Gecko Board__](https://www.geckoboard.com/)
 * [Harvest](http://www.getharvest.com/)
+
+## Storage
+* [Dropbox](https://www.dropbox.com/)
+* [Google Drive](https://www.google.com/drive/)
 
 ## Data / Monitoring
 * [__Google Analytics__](https://analytics.google.com)
@@ -28,16 +33,26 @@ Anything in __bold__ is the product that _Mixd_ use.
 * __Fireworks__
 * __Sketch__
 * Illustrator
+* [__Skitch__](https://evernote.com/products/skitch)
+
+### Fonts
+* [Typekit](https://typekit.com/)
+* [Fonts.com](https://www.fonts.com/)
+* [Google Fonts](https://fonts.google.com/)
 
 ## Development
 
 ### Code IDEs
 * [__Sublime Text__](http://www.sublimetext.com/)
+* [__VSCode__](https://code.visualstudio.com/)
+* [Atom](https://atom.io/)
 * [Coda](http://panic.com/coda/)
 * [Notepad++](http://notepad-plus-plus.org/)
 * [Brackets](http://brackets.io/)
-* [PHP Storm](https://www.jetbrains.com/phpstorm/)
 * [Vim](http://www.vim.org/)
+
+### Local Development
+* [__MAMP Pro__](https://www.mamp.info/en/downloads/)
 
 ### Pre-processors
 * [__Sass__](http://sass-lang.com/) (inc. [*Compass*](http://compass-style.org/))
@@ -46,6 +61,7 @@ Anything in __bold__ is the product that _Mixd_ use.
 ### Compilers
 * [__Grunt__](http://gruntjs.com/)
 * [Codekit](http://incident57.com/codekit/)
+* [Scout](http://scout-app.io/)
 
 ### Version Control
 * [__Git__](http://git-scm.com/) / [__GitHub__](https://github.com/)
@@ -66,4 +82,3 @@ Anything in __bold__ is the product that _Mixd_ use.
 ### Testing
 * [__BrowserStack__](http://www.browserstack.com/)
 * [__GhostLab__](http://vanamco.com/ghostlab/)
-* Built-in Emulator for Internet Explorer
