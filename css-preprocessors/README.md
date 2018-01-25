@@ -28,9 +28,23 @@ Each one of the features I spoke about has an example in this repo. Have a play 
 * [Functions / Math](http://codepen.io/thecodezombie/pen/FBHCG)
 * [Mixins](http://codepen.io/thecodezombie/pen/bInsH)
 
-## Task 3: Convert your own project to Sass
+## Task 3: Buttons!
 
-Find one of your pre-existing HTML/CSS projects, and see how you can apply Sass to it.
+The humble button. Just one common element, but so many possibilities. Create a basic-looking button – `.btn` – but extend it to have lots of different variations, like:
+
+* Colour (+gradient?)
+* Square / rounded corner / 'pill'
+* Small / large
+* Slim / chunky
+* With an icon (eg. right arrow)
+* Shadow
+
+Use what you've learnt about object-oriented CSS (aka. BEM), as well as the features of SASS, to create a button that can exist with any of the above combination. I'll likely live code my own on screen for anyone who wants to follow along / get ideas.
+
+## Optional: Convert your own project to Sass
+
+Find one of your pre-existing HTML/CSS projects, and see how you can apply Sass to make it better...more maintainable / less repetitive.
+
 
 ## Feeling Adventurous?: Look at the Mixd Front-end Framework!
 
