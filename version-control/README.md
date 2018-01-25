@@ -20,3 +20,9 @@ Interacting with Version Control typically works best straight from terminal / c
 * [Try](https://try.github.io/levels/1/challenges/1): from GitHub themselves...a good basic introduction to interacting via. command line.
 * [CodeSchool](https://www.codeschool.com/courses/git-real): Nice step-by-step tutorial
 * [Codeacademy](https://www.codecademy.com/learn/learn-git)
+
+## Interacting with Git...commandline
+
+GitHub have a really useful [cheat sheet](https://services.github.com/on-demand/downloads/github-git-cheat-sheet.pdf)that lists the most commonly used commands. Below is a few specific ones to highlight them even more.
+
+### [`git clone --recursive [url] [folder]`](https://git-scm.com/docs/git-clone)
