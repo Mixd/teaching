@@ -64,7 +64,7 @@ eg. `git add -A content/themes/mixd/header.php`
 
 You can run `git add -A` without specifying a file to just add everything you saw in `git status`. Or you can start typing something – eg. `cont` – and tab for it to auto-complete.
 
-The `-A` flag is important as using it will ensure that added, deleted and renamed files are included in the add, not just modified the modified files.
+The `-A` flag is important as using it will ensure that added, deleted and renamed files are included in the add, not just the modified files.
 
 ### [`git commit -m "[message]"`](https://git-scm.com/docs/git-commit)
 
