@@ -23,7 +23,7 @@ Interacting with Version Control typically works best straight from terminal / c
 
 ## Interacting with Git...commandline
 
-GitHub have a really useful [cheat sheet](https://services.github.com/on-demand/downloads/github-git-cheat-sheet.pdf)that lists the most commonly used commands. Below is a few specific tips to highlight them even more.
+GitHub have a really useful [cheat sheet](https://services.github.com/on-demand/downloads/github-git-cheat-sheet.pdf) that lists the most commonly used commands. Below is a few specific tips to highlight them even more.
 
 ### [`git clone --recursive [url] [folder]`](https://git-scm.com/docs/git-clone)
 
