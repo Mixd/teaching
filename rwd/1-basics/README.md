@@ -56,7 +56,7 @@ This is telling us that by default we want to use the `background` of `#3498db` 
 }
 ```
 
-> You can take a look at the `media-queries.md` file within the `5-extras` folder for a list of different Media Queries you can do, why they're useful, etc.
+> You can take a look at the `media-queries.md` file within the `z-extras` folder for a list of different Media Queries you can do, why they're useful, etc.
 
 **Your turn!**
 - Open up `styles.css`
