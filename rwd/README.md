@@ -16,15 +16,8 @@ The workshop is split into 4 different sections:
 - **4.Convertion**: Moving your wireframes and putting them into code
 - **5.Extras**: A resources folder to help you along the way
 
-## Acompanying Slides
-You can take a look at the presentation slides from the previous session that go along with this workshop [on slideshare](http://www.slideshare.net/LukeWhitehouse/responsive-web-design-introduction-by-mixd)
-
 ## Further Reading
 
 - The original RWD article on [a list apart](http://alistapart.com/article/responsive-web-design)
-- The original RWD presentation on [besquare](http://www.besquare.me/session/a-dao-of-flexibility/)
 - The RWD book on [A book apart](http://www.abookapart.com/products/responsive-web-design)
 - The [mobile first](http://www.abookapart.com/products/mobile-first) approach to responsive web design
-- [Jason's](http://thecodezombie.co.uk/blog/crash-course-in-responsive-web-design) blog post
-- Brad Frost's [This is Responsive](http://bradfrost.github.io/this-is-responsive/) project.
-- Teamtreehouse's 2014 guide to [Responsive Web Design](http://blog.teamtreehouse.com/modern-field-guide-responsive-web-design)
