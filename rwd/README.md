@@ -14,7 +14,8 @@ The workshop is split into 4 different sections:
 - **2.Layouts**: Working with Media Queries to create layouts and Structure through Grids
 - **3.Wireframing**: Create simple wireframes for your site at different device widths
 - **4.Convertion**: Moving your wireframes and putting them into code
-- **5.Extras**: A resources folder to help you along the way
+- **5. Advanced**: An extra challenge if you have a little spare time
+- **z.Extras**: A resources folder to help you along the way
 
 ## Further Reading
 
