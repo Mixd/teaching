@@ -23,7 +23,7 @@ Media Queries are awesome. Without them, Responsive Web Design simply wouldn't w
 }
 ```
 
-What this is actually telling the browser is, when a user comes to the site with a viewport width that is *larger than 800px wide*, then we'll give our `.content` selector the CSS property of `background: #2ecc71;`.
+What this is actually telling the browser is, when a user comes to the site with a viewport width that is *larger than 800px wide*, then we'll give our `.box` selector the CSS property of `background: #2ecc71;`.
 
 Lets break that down. First of all, we're declaring `@media`, which says we want to create a new media query. Next, comes our 'arguments' which in this example is `(min-width: 800px)`, and finally we have the curly brackets `{}` which wrap what we want to change once the 'arguments' are true (i.e. someone is viewing the site at a minimum of 800px wide).
 
